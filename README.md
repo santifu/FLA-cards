@@ -5,6 +5,7 @@
 A modular, remixable toolkit that captures the **core concepts, practices, and pedagogical strategies** of the Fab Learning Academy.  
 These cards function as **building blocks** to help educators **understand, adapt, and redesign** the FLA curriculum across global contexts.
 
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/c48d7ec5-7752-4d79-aef2-905e19a82ab6" />
 
 ---
 
