@@ -13,7 +13,7 @@ These cards function as **building blocks** to help educators **understand, adap
 
 This project aims to **synthesize and modularize the core building blocks** of the [Fab Learning Academy (FLA)](https://fla.academany.org) curriculum.
 
-The cards are inspired by the collective contributions of all the FLA hubs and facilitators — including **Liz Whitewolf, Iván Sánchez, Xavi Dominguez, Steven Chew, Maxim Richard**, and many others — and serve as a visual and flexible format to:
+The cards are inspired by the collective knowledge built through contributions from all members of the FLA community (hubs, executive board) — including **Liz Whitewolf, Iván Sánchez, Xavi Dominguez, Steven Chew, Maxim Richard,** and many others — and serve as a visual and flexible format to:
 
 - Represent key elements from each FLA module or week  
 - Make the curriculum **more accessible, shareable, and remixable**  
