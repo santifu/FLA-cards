@@ -1,7 +1,10 @@
 # FLA CARDS
 
-**FLA_CARDS** is an open collection of curriculum cards designed by **Santi Fuentemilla**, under the  
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+**Building Blocks of the Fab Learning Academy Curriculum**
+
+A modular, remixable toolkit that captures the **core concepts, practices, and pedagogical strategies** of the Fab Learning Academy.  
+These cards function as **building blocks** to help educators **understand, adapt, and redesign** the FLA curriculum across global contexts.
+
 
 ---
 
@@ -39,11 +42,18 @@ You can:
 
 ---
 
+
 ## 📄 License
 
-This work is licensed under a  
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+**FLA_CARDS** is an open collection **designed and curated by Santi Fuentemilla**, and is released under the  
+[Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
----
-> Designed and curated by **Santi Fuentemilla**  
-> With appreciation for the global FLA community  
+> “**FLA Cards**” by **Santifu** | CCL C1 O2v1.0  
+> Licensed under [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+> Learn more at: [https://santifu.github.io/ccl/](https://santifu.github.io/ccl/)
+
+✳️ **AI Transparency Statement**:  
+AI contributed as **Drafting Assistant in Coding**, and acted as **Co-Creator in Documentation**.  
+All other phases (conceptualization, design, decision-making) were **fully human-led**.
+
+Designed with appreciation for the global FLA community — a visual toolkit ready to be explored, reshaped, and shared.
