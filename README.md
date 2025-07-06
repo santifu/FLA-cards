@@ -5,7 +5,7 @@
 A modular, remixable toolkit that captures the **core concepts, practices, and pedagogical strategies** of the Fab Learning Academy.  
 These cards function as **building blocks** to help educators **understand, adapt, and redesign** the FLA curriculum across global contexts.
 
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/c48d7ec5-7752-4d79-aef2-905e19a82ab6" />
+<img width="577" alt="image" src="/files/cards.png" />
 
 ---
 
@@ -13,7 +13,7 @@ These cards function as **building blocks** to help educators **understand, adap
 
 This project aims to **synthesize and modularize the core building blocks** of the [Fab Learning Academy (FLA)](https://fla.academany.org) curriculum.
 
-The cards are inspired by the collective contributions of all the FLA hubs and facilitators — including **Liz, Iván, Xavi, Steve, Maxim**, and many others — and serve as a visual and flexible format to:
+The cards are inspired by the collective contributions of all the FLA hubs and facilitators — including **Liz Whitewolf, Iván Sánchez, Xavi Dominguez, Steven Chew, Maxim Richard**, and many others — and serve as a visual and flexible format to:
 
 - Represent key elements from each FLA module or week  
 - Make the curriculum **more accessible, shareable, and remixable**  
